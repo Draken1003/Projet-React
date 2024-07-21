@@ -1,0 +1,13 @@
+.input-group:not(.has-validation)>:not(:last-child):not(.dropdown-toggle):not(.dropdown-menu):not(.form-floating){
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.form-control{
+    border-radius: 10px;
+}
+
+.texts{
+    color:white;
+    font-size:17px;
+}
